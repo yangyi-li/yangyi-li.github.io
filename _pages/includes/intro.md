@@ -1,1 +1,1 @@
-I am a senior student in Sichuan University
+I am a senior student in Wuyuzhang Honors College, Sichuan University
