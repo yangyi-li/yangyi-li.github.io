@@ -19,7 +19,7 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
-If you like the template of this homepage, welcome to star and fork my open-sourced template version
+{% include_relative includes/edu.md %}
 
 {% include_relative includes/news.md %}
 
