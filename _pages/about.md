@@ -27,4 +27,6 @@ redirect_from:
 
 {% include_relative includes/honors.md %}
 
+{% include_relative includes/Teaching.md %}
+
 {% include_relative includes/others.md %}
