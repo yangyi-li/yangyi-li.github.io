@@ -1,4 +1,1 @@
-Hello! I am a first-year Ph.D. candidate in Computer Science, Iowa State University.
-
-
-My current research interests lie broadly in the areas of trustworthy learning systems, revenue management and online marketplaces. 
+Hello! I'm Yangyi Li (李洋溢), a Ph.D. student in Computer Science at Iowa State University, where I am privileged to be advised by [Mengdi Huai](https://mdhuai.github.io/). My current research interests lie broadly in the areas of trustworthy learning systems, revenue management, and online marketplaces. 
