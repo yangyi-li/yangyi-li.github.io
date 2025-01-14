@@ -1,2 +1,2 @@
 # 🧑‍🏫 Academic Activities
-Reviewed for [_ICLR 2025_](https://iclr.cc/), [_AISTATS 2025_](https://aistats.org/), [_AAAI 2025_](https://aaai.org/), [_NeurIPS workshop on Bayesian Decision-making and Uncertainty 2024_](https://neurips.cc/)
+- Reviewed for [ICLR](https://iclr.cc/) 2025, [AISTATS](https://aistats.org/) 2025, [AAAI](https://aaai.org/) 2025, [NeurIPS workshop on Bayesian Decision-making and Uncertainty](https://neurips.cc/) 2024
