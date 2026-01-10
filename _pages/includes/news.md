@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.12*: One paper was accepted by AAAI 2026!
 - *2025.08*: One paper was accepted to EMNLP 2025 Findings!
 - *2025.08*: One paper was accepted to CIKM 2025!
 - *2025.01*: One paper was accepted to AI Magazine!
