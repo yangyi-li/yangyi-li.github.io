@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.04*: One paper was accepted by ACL 2026!
 - *2026.01*: One paper was accepted by PAKDD 2026!
 - *2025.12*: One paper was accepted by AAAI 2026!
 - *2025.08*: One paper was accepted to EMNLP 2025 Findings!
