@@ -1,5 +1,6 @@
 # 📝 Publications 
 
+- **Yangyi Li**, Chenxu Zhao, and Mengdi Huai, "Quantifying and Understanding Uncertainty in Large Reasoning Models", the 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**), San Diego, USA, July 2026.
 - **Yangyi Li** and Mengdi Huai, "Uncertainty-aware Language Guidance for Concept Bottleneck Models", the 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2026**), Hong Kong, China, June 2026. ![Oral](https://img.shields.io/badge/Oral-red)
 - Wei Qian, Chenxu Zhao, **Yangyi Li**, and Mengdi Huai, "Towards Benchmarking Privacy Vulnerabilities in Selective Forgetting with Large Language Models", the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI 2026**), Singapore, January 2026. ![Oral](https://img.shields.io/badge/Oral-red)
 - **Yangyi Li** and Mengdi Huai, "Quantifying Uncertainty in Natural Language Explanations for Question Answering", _Findings of the 2025 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP 2025 Findings**), Suzhou, China, November 2025.
