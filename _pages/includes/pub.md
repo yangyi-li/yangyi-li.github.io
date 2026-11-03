@@ -1,5 +1,7 @@
 # 📝 Publications 
 
+
+- **Yangyi Li** and Mengdi Huai, "Strategic Underperformance in Reasoning: Sandbagging in Large Reasoning Models", the 20th ACM International Conference on Web Search and Data Mining (**WSDM 2027**), Hong Kong, China, February 2027.
 - **Yangyi Li**, Chenxu Zhao, and Mengdi Huai, "Quantifying and Understanding Uncertainty in Large Reasoning Models", the 64th Annual Meeting of the Association for Computational Linguistics (**ACL 2026**), San Diego, USA, July 2026.
 - **Yangyi Li** and Mengdi Huai, "Uncertainty-aware Language Guidance for Concept Bottleneck Models", the 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2026**), Hong Kong, China, June 2026. ![Oral](https://img.shields.io/badge/Oral-red)
 - Wei Qian, Chenxu Zhao, **Yangyi Li**, and Mengdi Huai, "Towards Benchmarking Privacy Vulnerabilities in Selective Forgetting with Large Language Models", the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI 2026**), Singapore, January 2026. ![Oral](https://img.shields.io/badge/Oral-red)
