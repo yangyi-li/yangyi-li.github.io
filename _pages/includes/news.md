@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.11*: One paper was accepted by WSDM 2027!
 - *2026.07*: My research was accepted to the Doctoral Student Forum at SDM 2026!
 - *2026.04*: One paper was accepted by ACL 2026!
 - *2026.01*: One paper was accepted by PAKDD 2026!
